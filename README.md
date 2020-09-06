@@ -39,3 +39,15 @@ Unless otherwise specified, everything in this repository is covered by the foll
 This work was based on the ***Audacity glossary*** by [Audacity](https://www.audacityteam.org/), licensed under a [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 To see this work in full go to https://manual.audacityteam.org/man/glossary.html
+
+----
+
+<b>
+<div align="center">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href="http://patreon.com/darigovresearch">Patreon</a> and <a href="https://www.darigovresearch.com/donate">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>
